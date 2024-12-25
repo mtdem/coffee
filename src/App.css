@@ -1,0 +1,23 @@
+.Espresso {
+  display: grid;
+  place-items: center;
+  max-width: calc(100vw - 50px);
+  max-height: calc(100vh - 50px);
+  margin: 50px auto;
+}
+
+.EspressoPhoto {
+  max-width: calc(100vw * 0.8);
+  max-height: calc(100vh * 0.8);
+  object-fit: contain;
+}
+
+.EspressoLink {
+  font-family: 'DejaVu Sans Mono', monospace;
+  font-size: 2.5em;
+}
+
+.EspressoLink:visited {
+  color: #0080ff;
+  transition: color 0.15s ease-in-out;
+}

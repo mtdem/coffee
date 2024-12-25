@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://cloudconvert.com/
+HostUrl=https://us-east.storage.cloudconvert.com/tasks/45b88ef3-4922-4530-b19b-5bce0cbaffc4/espresso.ico?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=cloudconvert-production%2F20241225%2Fva%2Fs3%2Faws4_request&X-Amz-Date=20241225T204818Z&X-Amz-Expires=86400&X-Amz-Signature=9311cdbc119ad76d1c99d75379005640d838b35523293f574679ef677389f57f&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22espresso.ico%22&response-content-type=image%2Fvnd.microsoft.icon&x-id=GetObject
